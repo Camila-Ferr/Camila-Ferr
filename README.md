@@ -14,7 +14,7 @@ class AboutMe{
   
   <img align="left" src="./avatar.png" style="width:290px;" >
   
- [![iuricode](https://github-readme-stats.vercel.app/api?username=Camila-Ferr&theme=dracula&show_icons=true)]
+ ![iuricode](https://github-readme-stats.vercel.app/api?username=Camila-Ferr&theme=dracula&show_icons=true)
 
 </div>
 
