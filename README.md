@@ -2,7 +2,7 @@
 class AboutMe{
 
     private final String NOME = "Camila";
-    private String[] paixoes = {"leitura","café","animações"};
+    private String[] paixoes = {"leitura","café","animações","músicas"};
     private String profissao = "Software developer";
     private String curso = "Ciências da Computação na UFF";
     
