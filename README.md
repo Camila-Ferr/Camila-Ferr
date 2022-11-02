@@ -10,11 +10,11 @@ class AboutMe{
 ```
 
 <h2> :computer: Sobre o git: </h2>
-<div class = "row" >
+<div style = "position: relative;">
   
-  <img src="./avatar.png">
+  <img align="left" src="./avatar.png" style="width:290px;" >
   
-  [![iuricode](https://github-readme-stats.vercel.app/api?username=Camila-Ferr&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![iuricode](https://github-readme-stats.vercel.app/api?username=Camila-Ferr&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
