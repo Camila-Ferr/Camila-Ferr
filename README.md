@@ -1,7 +1,7 @@
 ```java
 class AboutMe{
 
-    private final String NOME = "Camila";
+    private static final String NOME = "Camila Ferreira";
     private String[] paixoes = {"leitura","café","animações","músicas"};
     private String profissao = "Software developer";
     private String curso = "Ciências da Computação na UFF";
@@ -12,7 +12,7 @@ class AboutMe{
 <h2> :computer: Sobre o git: </h2>
 <div style = "position: relative;">
   
-  <img align="left" src="./avatar.png" style="width:290px;" >
+  <img align="right" src="./perfil2.png" style="width:400px;" >
   
  ![iuricode](https://github-readme-stats.vercel.app/api?username=Camila-Ferr&theme=dracula&show_icons=true)
 
