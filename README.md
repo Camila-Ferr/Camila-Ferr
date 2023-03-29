@@ -12,7 +12,7 @@ class AboutMe{
 <h2> :computer: Sobre o git: </h2>
 <div style = "position: relative;">
   
-  <img align="right" src="./perfil2.png" style="width:390px;" >
+  <img align="right" src="./perfil2.png" style="width:320px;" >
   
  ![iuricode](https://github-readme-stats.vercel.app/api?username=Camila-Ferr&theme=dracula&show_icons=true)
 
