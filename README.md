@@ -4,7 +4,7 @@ class AboutMe{
     private static final String NOME = "Camila Ferreira";
     private String[] paixoes = {"leitura","café","animações","músicas"};
     private String profissao = "Software developer";
-    private String curso = "Ciências da Computação na UFF";
+    private String curso = "Ciência da Computação na UFF";
     
 }
 ```
