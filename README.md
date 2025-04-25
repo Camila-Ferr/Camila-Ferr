@@ -10,7 +10,7 @@ class AboutMe{
 }
 ```
 
-<h2> :computer: Sobre o git: </h2>
+<h2> :computer: Sobre o git </h2>
 <div style = "position: relative;">
   
   <img align="right" src="./perfil2.png" style="width:320px;" >
