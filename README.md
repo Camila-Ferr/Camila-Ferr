@@ -5,7 +5,7 @@ class AboutMe{
     private String[] paixoes = {"☕ café", "📚 leitura", "🎵 músicas", "🎞 animações"};
     private String profissao = "💻 Software Developer";
     private String formacao = "🎓 Ciência da Computação";
-    private String vibe = "Escrevendo código, ouvindo música e tomando café.";
+    private String mestrado = "Em andamento";
     
 }
 ```
